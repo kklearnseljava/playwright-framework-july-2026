@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4069","login to application","chromium","2026-09-16","passed","2026-09-16","","smoke\login.spec.js","",""
+"","5811","login to application","firefox","2026-09-16","passed","2026-09-16","","smoke\login.spec.js","",""
+"","3979","login to application","webkit","2026-09-16","passed","2026-09-16","","smoke\login.spec.js","",""
